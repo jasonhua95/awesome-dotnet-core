@@ -306,11 +306,11 @@
 
 ### 密码
 * [BCrypt.Net](https://github.com/BcryptNet/bcrypt.net) - BCrypt密码库。
-* [BCrypt.NET-Core](https://github.com/neoKushan/BCrypt.Net-Core) - 用于安全存储密码的BCrypt.NET的.NET核心端口。
-* [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) -  Bouncy Castle Crypto包是加密算法和协议的C#实现。
-* [multiformats](https://github.com/multiformats/cs-multihash) - 一个通用的散列库，但是一个用于编码/解码Multihashes的库，它是一个“容器”，用于描述计算摘要的散列算法。
+* [BCrypt.NET-Core](https://github.com/neoKushan/BCrypt.Net-Core) - 用于安全存储密码的BCrypt.NET库。
+* [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) -  Bouncy Castle Crypto包是加密算法和协议的库。
+* [multiformats](https://github.com/multiformats/cs-multihash) - 用于编码/解码Multihashes的库，它是一个“容器”，用于描述计算摘要的散列算法。
 * [nsec](https://github.com/ektrah/nsec) -  NSec是基于libsodium的.NET Core新加密库。
-* [SecurityDriven.Inferno](github.com/sdrapkin/SecurityDriven.Inferno) - Hig level crypto library used .Net primitives, has been professionally audited.
+* [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) - 专业的加密库。
 
 ### 数据库
 * [DBreeze](https://github.com/hhblaze/DBreeze) -  C#.NET MONO NOSQL(嵌入式键值存储)ACID多范例数据库管理系统。
