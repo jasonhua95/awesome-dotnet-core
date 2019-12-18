@@ -7,8 +7,8 @@
 
 [国内](README.md)  | [中文](README_CN.md)  | [English](README_EN.md) 
   
-国内：国内可以访问的，国内的优秀库，框架，工具，软件  
-中文：英文awesome-dotnet-core的翻译版本  
-English：英文awesome-dotnet-core  
+> 国内：国内可以访问的，国内的优秀库，框架，工具，软件  
+> 中文：英文awesome-dotnet-core的翻译版本  
+> English：英文awesome-dotnet-core  
 
 ## 内容
