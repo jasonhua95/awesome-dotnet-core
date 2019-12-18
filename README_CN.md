@@ -11,7 +11,7 @@
 ## 内容
 
 * [一般](#一般)
-* [框架、库、工具](#框架-库-工具)
+* [框架, 库和工具](#框架-库和工具)
   * [API](#api)
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
@@ -81,7 +81,7 @@
 * [Introducing .NET Standard 2.0](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard) - The description of what will be going on for .NET Standard 2.0 and the roadmap for some missing parts of the current .NET Standard.
 * [Clean Code .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet) - Clean Code concepts adapted for .NET / .NET Core.
 
-## 框架，库，工具
+## 框架, 库和工具
 
 ### API
 
