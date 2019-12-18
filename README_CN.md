@@ -79,77 +79,78 @@
 
 * [ASP.NET Core Documentation](https://docs.asp.net/en/latest/) - 官方ASP.NET核心文档站点。
 * [.NET Core Documentation](https://docs.microsoft.com/en-us/dotnet/articles/welcome) - .NET Core，C#，F#和Visual Basic技术文档的主页，包括基本概念，入门说明，教程和示例。
-* [.NET Core SDK](https://www.microsoft.com/net/core) -  .NET Core SDK是由Microsoft和.NET社区在[GitHub]上维护的通用开发平台(https：// github.com/dotnet/core)。
+* [.NET Core SDK](https://www.microsoft.com/net/core) -  .NET Core SDK是由Microsoft和.NET社区在[GitHub](https://github.com/dotnet/core)上维护的通用开发平台。
 * [.NET Platform Standard](https://github.com/dotnet/corefx/blob/1719a3fe2a5c81b67a4909787da4a02fb0d0d419/Documentation/architecture/net-platform-standard.md) - 旧版本和新版本的.NET之间存在差异。
 * [Introducing .NET Standard 2.0](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard) - 介绍.NET Standard 2.0的内容和当前.NET标准中某些缺失部分的路线图。
-* [Clean Code .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet) - 适用于.NET / .NET Core的Clean Code概念。
+* [.NET/.NET Core代码整洁](https://github.com/thangchung/clean-code-dotnet) - 适用于.NET / .NET Core的代码整洁。
+* [.NET Framework源码](https://referencesource.microsoft.com/)
 
 ## 框架, 库和工具
 
 ### API
 
-* [autorest](https://github.com/Azure/autorest) -  Swagger(OpenAPI)规范代码生成器，具有C#和Razor模板。支持C#，Java，Node.js，TypeScript，Python和Ruby。 `4.5.x或以上`
-* [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning) - 一组库，它们将服务API版本添加到ASP.NET Web API，使用ASP.NET Web API添加OData，以及ASP.NET核心。
-* [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) -  ASP.NET核心速率限制中间件。
+* [autorest](https://github.com/Azure/autorest) -  Swagger(OpenAPI)规范代码生成器，具有C#和Razor模板。支持C#，Java，Node.js，TypeScript，Python和Ruby。
+* [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning) - 提供一组库，这些库可将服务API版本添加到ASP.NET Web API，具有ASP.NET Web API的OData和ASP.NET Core。
+* [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) -  ASP.NET限速中间件。
 * [CondenserDotNet](https://github.com/Drawaes/CondenserDotNet) - 使用Kestrel和Consul的API Condenser / Reverse Proxy，包括轻量级consul库。
-* [Flurl](https://github.com/tmenier/Flurl) - 适用于.NET的Fluent URL构建器和可测试的HTTP [https://flurl.dev](https://flurl.dev)。
+* [Flurl](https://github.com/tmenier/Flurl) - 适用于.NET的Fluent URL构建器和可测试的HTTP。
 * GraphQL
-  * [Dapper.GraphQL](https://github.com/landmarkhw/Dapper.GraphQL) - 一个用于集成Dapper和graphql-dotnet项目的库，其中易用性和性能是主要关注点。
+  * [Dapper.GraphQL](https://github.com/landmarkhw/Dapper.GraphQL) - 一个旨在将Dapper和graphql-dotnet项目集成在一起的库，主要考虑的是易用性和性能。
   * [graphql-aspnetcore](https://github.com/JuergenGutsch/graphql-aspnetcore) -  ASP.NET Core MiddleWare创建GraphQL端点。
-  * [graphql-convention](https://github.com/graphql-dotnet/conventions) - 这个库是一个补充层，允许您使用现有的属性getter和方法自动将.NET类包装到GraphQL模式定义中作为场解析器。
+  * [graphql-convention](https://github.com/graphql-dotnet/conventions) - 该库是GraphQL的补充层，使您可以使用现有的属性和方法作为字段解析器，将.NET类自动包装到GraphQL模式定义中。
   * [graphiql-dotnet](https://github.com/JosephWoodward/graphiql-dotnet) - 用于ASP.NET Core的GraphiQL中间件。
-  * [graphql-dotnetcore](https://github.com/mkmarek/graphql-dotnetcore) - 基于[https://github.com/graphql/graphql-js](https://github.com/graphql/graphql-js)的.NETQL GraphQL。
+  * [graphql-dotnetcore](https://github.com/mkmarek/graphql-dotnetcore) - 基于[graphql-js](https://github.com/graphql/graphql-js)的.NETQL GraphQL。
   * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET。
   * [graphql-dotnet-server](https://github.com/graphql-dotnet/server) - GraphQL for .NET - 订阅传输WebSockets。
   * [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) - .Net Core和.NET Framework的GraphQL服务器。
-  * [FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL) - Facebook GraphQL查询语言的[https://fsprojects.github.io/FSharp.Data.GraphQL](https://fsprojects.github.io/FSharp.Data.GraphQL)实现。
+  * [FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL) - Facebook GraphQL查询语言的[FSharp]((https://fsprojects.github.io/FSharp.Data.GraphQL))实现。
   * [parser](https://github.com/graphql-dotnet/parser) - .NET中GraphQL的词法分析器和解析器。
-  * [tanka-graphql](https://github.com/pekkah/tanka-graphql) - GraphQL执行和服务器库支持SignalR，Apollo，模式操纵以及Apollo和graphql-js熟悉的其他功能。
+  * [tanka-graphql](https://github.com/pekkah/tanka-graphql) - GraphQL执行库和服务器库，支持SignalR，Apollo，模式操纵以及Apollo和graphql-js熟悉的其他功能。
 * [halcyon](https://github.com/visualeyes/halcyon) -  ASP.NET的HAL实现。
-* [JSON API .NET Core](https://github.com/Research-Institute/json-api-dotnet-core) - 用于构建json：api兼容API的框架，目标是消除RESTful样板。
-* [LightNode](https://github.com/neuecc/LightNode) - 基于OWIN的微型RPC / REST框架[http://neuecc.github.io/LightNode](http://neuecc.github.io/) LightNode)。
+* [JSON API .NET Core](https://github.com/Research-Institute/json-api-dotnet-core) - 用于ASP.Net Core的JSON API框架。
+* [LightNode](https://github.com/neuecc/LightNode) - 基于OWIN构建的Micro RPC / REST框架
 * [NetCoreStack.Proxy](https://github.com/NetCoreStack/Proxy) - 适用于.NET Standard 2.0的类型安全的分布式REST库(NetCoreStack Flying Proxy)
-* [NSwag](https://github.com/RSuter/NSwag) - 用于.NET，Web API和TypeScript的Swagger / OpenAPI工具链。 [http://NSwag.org](http://NSwag.org)。
+* [NSwag](https://github.com/RSuter/NSwag) - 用于.NET，Web API和TypeScript的Swagger / OpenAPI工具链。
 * [OData](https://github.com/OData/WebApi/tree/feature/netcore) - 开放数据协议(OData)支持创建基于HTTP的数据服务，允许使用统一资源标识符识别资源( URIs)并在抽象数据模型中定义，由Web客户端使用简单的HTTP消息进行发布和编辑。
-* [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) -  OpenAPI Generator允许生成API客户端库(例如C#，TypeScript等)，服务器存根(ASP.NET Core，NancyFx等) ，OpenAPI规范(v2，v3)自动提供文档和配置。
-* [refit](https://github.com/paulcbetts/refit) -  Xamarin和.NET的自动类型安全REST库。
-* [RestClient.Net](https://github.com/MelbourneDeveloper/RestClient.Net) - 适用于所有C#平台的跨平台REST客户端
+* [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) - 可以通过 OpenAPI Generator，在给定 OpenAPI 规范(v2, v3)的情况下自动生成 API 客户端库、server stubs、文档以及配置。
+* [refit](https://github.com/paulcbetts/refit) -  适用于.NET Core，Xamarin和.NET的自动类型安全REST库。
+* [RestClient.Net](https://github.com/MelbourneDeveloper/RestClient.Net) - 适用于所有C#跨平台的REST客户端。
 * [RestEase](https://github.com/canton7/RestEase) - 易于使用的类型安全REST API客户端库，简单且可自定义。
 * [RestLess](https://github.com/letsar/RestLess) -  .Net Standard的自动类型安全无反射REST API客户端库。
 * [Restier](https://github.com/OData/RESTier) -  RESTier是一个RESTful API开发框架，用于在.NET平台上构建基于OData V4的标准化RESTful服务。
 * [Restsharp](https://github.com/restsharp/RestSharp) - 用于.NET的简单REST和HTTP API客户端
-* [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - 无缝地为WebApi项目添加了一个全家桶。
+* [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger工具，生成API文档，包括用于测试的UI。
   * [MicroElements.Swashbuckle.FluentValidation](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation) - 向Swagger添加FluentValidation规则。
-  * [Swashbuckle.AspNetCore.Filters](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - 一堆用于Swashbuckle.AspNetCore的有用过滤器。
-* [WebAPIContrib for ASP.NET CORE](https://github.com/WebApiContrib/WebAPIContrib.Core) - ASP.NET Core的社区贡献。
+  * [Swashbuckle.AspNetCore.Filters](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - 一堆有用的Swashbuckle.AspNetCore筛选器。
+* [WebAPIContrib for ASP.NET CORE](https://github.com/WebApiContrib/WebAPIContrib.Core) - ASP.NET Core的附加组件和扩展库。
 
 ### 应用程序框架
-* [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) -  ASP.NET Boilerplate是一个专用于新的现代Web应用程序的通用应用程序框架。它使用已经熟悉的工具并实现最佳实践，为您提供SOLID开发体验。
-* [Abp vNext](https://github.com/abpframework/abp) - Abp vNext是下一代开源[ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) 框架。 它是创建现代Web应用程序的完整体系结构和强大的基础架构！
-遵循最佳实践和约定，为您提供SOLID开发经验。
+* [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) -  ABP是一个通用的WEB应用程序框架和项目模板。
+* [Abp vNext](https://github.com/abpframework/abp) - 该项目是ABP Web应用程序框架的下一代。
 * [AsyncEx](https://github.com/StephenCleary/AsyncEx) -  async / await的帮助程序库。
-* [Aeron.NET](https://github.com/AdaptiveConsulting/Aeron.NET) - 高效可靠的UDP单播，UDP多播和IPC消息传输 -  Aeron的.NET端口。
-* [akka.net](https://github.com/akkadotnet/akka.net) - 用于在.NET和Mono上构建高度并发，分布式和容错的事件驱动应用程序的工具包和运行时。
+* [Aeron.NET](https://github.com/AdaptiveConsulting/Aeron.NET) - 高效可靠的UDP单播，UDP组播和IPC消息传输。
+* [akka.net](https://github.com/akkadotnet/akka.net) - Akka是一个基于scala语言的Actor模型库，旨在构建一套高并发、分布式、自动容错、消息驱动应用的工具集。
 * [Aggregates.NET](https://github.com/volak/Aggregates.NET) -  Aggregates.NET是一个框架，可以帮助开发人员将优秀的NServiceBus和EventStore库集成在一起。
-* [ASP.NET MVC](https://github.com/aspnet/Mvc) - 模型视图控制器框架，用于构建动态网站，清晰分离关注点，包括合并的MVC，Web API和带Razor的Web页面。
-* [Butterfly Server .NET](https://github.com/firesharkstudios/butterfly-server-dotnet) - 允许用最少的工作量构建实时Web应用程序和本机应用程序。定义Web API和Subscription API，以自动同步所连接客户端的数据集。
-* [CAP](https://github.com/dotnetcore/CAP) - 具有本地持久消息功能的EventBus，用于SOA或微服务架构中的系统集成。
-* [Carter](https://github.com/CarterCommunity/Carter) -  Carter是一个允许Nancy-esque路由与ASP.Net Core一起使用的库。
-* [Chromely](https://github.com/mattkol/Chromely) -  Electron.NET的轻量级替代品，适用于.NET / .NET Core的Electron。
-* [Cinchoo ETL](https://github.com/Cinchoo/ChoETL) - 用于.NET的ETL框架(用于CSV，Flat，Xml，JSON，键值格式文件的分析器/写入器)。
+* [ASP.NET MVC](https://github.com/aspnet/Mvc) - 官方WEB应用程序框架，MVC。
+* [ASP.NET Core](https://github.com/aspnet/AspNetCore) - ASP.NET Core是一个跨平台的.NET框架。
+* [Butterfly Server .NET](https://github.com/firesharkstudios/butterfly-server-dotnet) - 允许用最少的工作量构建实时Web应用程序，分布式追踪的服务器端库。
+* [CAP](https://github.com/dotnetcore/CAP) - CAP是处理分布式事务的解决方案，还具有EventBus功能，它轻巧，易于使用且高效。
+* [Carter](https://github.com/CarterCommunity/Carter) -  Carter是一个路由框架，使代码更加简单明确。
+* [Chromely](https://github.com/mattkol/Chromely) -  Electron.NET的轻量级替代品，构建HTML5桌面应用程序框架。
+* [Cinchoo ETL](https://github.com/Cinchoo/ChoETL) - 用于.NET的ETL框架(用于CSV，Flat，Xml，JSON，键值对格式文件的分析器/写入器)。
 * [CQRSlite](https://github.com/gautema/CQRSlite) - 用于帮助在C#中编写CQRS和Eventsourcing应用程序的轻量级框架。
-* [dataaccess_aspnetcore](https://github.com/digipolisantwerp/dataaccess_aspnetcore) -  DataAccess工具箱包含使用工作单元和存储库模式在ASP.NET Core中使用Entity Framework Core 1.0进行数据访问的基类。
-* [DNTFrameworkCore](https://github.com/rabbal/DNTFrameworkCore) - 用于构建基于ASP.NET Core的高质量Web应用程序的轻量级和可扩展基础架构。
-* [DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) - 用于将程序集作为插件加载的.NET Core库。
-* [DotnetSpider](https://github.com/dotnetcore/DotnetSpider) -  DotnetSpider，一个类似于WebMagic和Scrapy的.NET标准网络爬行库。它是.NET的轻量级，高效且快速的高级Web爬行和抓取框架。
+* [dataaccess_aspnetcore](https://github.com/digipolisantwerp/dataaccess_aspnetcore) -  EF的UnitOfWork和Repositories的基类。
+* [DNTFrameworkCore](https://github.com/rabbal/DNTFrameworkCore) - DNTFrameworkCore 是一个轻量级且可扩展的基础结构，用于基于ASP.NET Core构建高质量的Web应用程序
+* [DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) - 用于动态加载.NET Core程序集，将其作为主应用程序的扩展来执行与Assembly.LoadFrom不同。
+* [DotnetSpider](https://github.com/dotnetcore/DotnetSpider) -  DotnetSpider，一个类似于WebMagic和Scrapy的.NET标准爬虫库。它是轻量级，高效且快速的高级Web爬网和抓取框架。
 * [DotNetty](https://github.com/Azure/DotNetty) -  netty端口，事件驱动的异步网络应用程序框架。
 * [dotvvm](https://github.com/riganti/dotvvm) -  Web应用程序的开源MVVM框架。
 * [ElectronNET](https://github.com/ElectronNET/Electron.NET) - 使用ASP.NET NET Core构建跨平台桌面应用程序。
-* [EmbedIO](https://github.com/unosquare/embedio) - 一个基于模块的小型跨平台模块，用于.NET Framework和.NET Core。
-* [Ether.Network](https://github.com/aloisdg/Ether.Network) - Ether.Network是一个开源网络库，允许开发人员通过TCP /创建简单，快速和可扩展的套接字服务器或客户端应用程序IP协议。
-* [EventFlow](https://github.com/eventflow/EventFlow) - 异步/等待.NET的第一个CQRS + ES和DDD框架。
+* [EmbedIO](https://github.com/unosquare/embedio) - 一个小型的，跨平台，基于模块的Web服务器。
+* [Ether.Network](https://github.com/aloisdg/Ether.Network) - Ether.Network是一个开源网络库，允许开发人员通过sockets创建简单，快速和可扩展的套接字服务器或客户端的基本库。
+* [EventFlow](https://github.com/eventflow/EventFlow) - EventFlow是一个易于使用的基本CQRS + ES框架。
 * [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - 用C#编写的轻量级快速库，用于读取Microsoft Excel文件。
-* [ExtCore](https://github.com/ExtCore) - 用于创建基于ASP.NET Core 1.0的模块化和可扩展Web应用程序的免费，开源和跨平台框​​架。
+* [ExtCore](https://github.com/ExtCore) - 用于创建模块化和可扩展的Web应用程序框​​架。
 * [Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant) -  Finbuckle.MultiTenant是一个.NET标准库，用于为ASP.NET 2.0+设计的多租户支持。它提供租户解析，每租户应用配置和每租户数据隔离的功能。
 * [fission](https://github.com/fission/fission) -  Kubernetes的快速服务器功能。
 * [grpc](https://github.com/grpc/grpc/tree/master/src/csharp) - 远程过程调用(RPC)为构建分布式应用程序和服务提供了有用的抽象。此存储库中的库提供了gRPC协议的具体实现，通过HTTP / 2分层。这些库使用支持的语言的任意组合实现客户端和服务器之间的通信。
