@@ -1,17 +1,17 @@
 # Awesome .NET Core [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
+灵感来自[awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
 
-Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/thangchung/awesome-dotnet-core/blob/master/contributing.md) pages first. We accept proprietary and commercial software too.
+永远欢迎贡献! 请先查看[贡献准则](https://github.com/thangchung/awesome-dotnet-core/blob/master/contributing.md). 我们也接受专有和商业软件.
 
-Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+感谢所有的[贡献者](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors), 没有你的参与awesome的创建将不能想象! 此项目的目的是建立一个以社区驱动的知名的资源分类集合。
 
-Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https://twitter.com/thangchung)!
+查看我的[博客](https://medium.com/@thangchung) 或者在[Twitter](https://twitter.com/thangchung)打声招呼!
 
-## Contents
+## 内容
 
-* [General](#general)
-* [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
+* [一般](#一般)
+* [框架、库、工具](#框架-库-工具)
   * [API](#api)
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
@@ -72,7 +72,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [Podcasts](#podcasts)
 * [Community](#community)
 
-## General
+## 一般
 
 * [ASP.NET Core Documentation](https://docs.asp.net/en/latest/) - The official ASP.NET Core documentation site.
 * [.NET Core Documentation](https://docs.microsoft.com/en-us/dotnet/articles/welcome) - Home of the technical documentation for .NET Core, C#, F# and Visual Basic, including basic concepts, getting started instructions, tutorials and samples.
@@ -81,7 +81,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [Introducing .NET Standard 2.0](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard) - The description of what will be going on for .NET Standard 2.0 and the roadmap for some missing parts of the current .NET Standard.
 * [Clean Code .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet) - Clean Code concepts adapted for .NET / .NET Core.
 
-## Frameworks, Libraries and Tools
+## 框架，库，工具
 
 ### API
 
