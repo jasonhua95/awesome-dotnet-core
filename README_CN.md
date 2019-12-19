@@ -1,13 +1,7 @@
 # awesome-dotnet-core
 .NET Core框架、库和软件的中文收录大全。内容包括：库、工具、框架、模板引擎、身份认证、数据库、ORM框架、图片处理、文本处理、机器学习、日志、代码分析、教程等。
-
-## 说明
-
-[国内](README.md)  | [中文](README_CN.md)  | [English](README_EN.md) 
   
-> 国内：中国人自己的优秀库，框架，工具，软件，播客，公众号等。  
-> 中文：英文awesome-dotnet-core的翻译版本  
-> English：英文awesome-dotnet-core  
+[国内](README_CN.md)  | [中文](README.md)  | [English](README_EN.md) 
 
 ## 内容
 * [一般](#一般)
