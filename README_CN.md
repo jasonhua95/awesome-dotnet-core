@@ -602,14 +602,14 @@
 * [emitter](https://emitter.io/) - 连接所有设备的免费开源实时消息服务。此发布 - 订阅消息传递API是为了提高速度和安全性而构建的。
 * [EventStore](https://github.com/EventStore/EventStore) - 使用JavaScript中的复杂事件处理的开源，功能数据库。
 * [Foundatio](https://github.com/exceptionless/Foundatio#queues) - 内存，redis和azure实现的通用接口。
-* [MediatR](https://github.com/jbogard/MediatR) -  .NET中简单，无语的中介实现。
- * [MediatR.Extensions.Microsoft.DependencyInjection](https://github.com/jbogard/MediatR.Extensions.Microsoft.DependencyInjection) - MediatR extensions for Microsoft.Extensions.DependencyInjection.
+* [MediatR](https://github.com/jbogard/MediatR) -  中介模式库。
+ * [MediatR.Extensions.Microsoft.DependencyInjection](https://github.com/jbogard/MediatR.Extensions.Microsoft.DependencyInjection) - MediatR的扩展程序
 * [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) -  .Net的简单中介，用于发送支持管道的命令，发布事件和请求响应。
-* [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - 用于.NET的简单流程中介。
+* [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus中介模式库。
 * [MQTTnet](https://github.com/chkr1011/MQTTnet) -  MQTTnet是一个用于基于MQTT的通信的高性能.NET库。
-* [netmq](https://github.com/zeromq/netmq) -  ZeroMQ for .NET的100％原生C#实现。
-* [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) - 用于DDD，CQRS和事件采购的.NET核心库，具有Azure Service Bus集成。 Command和Event存储支持的数据库提供程序包括：DocumentDB，MongoDB，SQL Server，MySQL，PostgreSQL和SQLite。
-* [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client) -  RabbitMQ .NET客户端[https://www.rabbitmq.com](https://www.rabbitmq。 COM)。
+* [netmq](https://github.com/zeromq/netmq) -  NetMQ是轻量级消息传递库。
+* [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) - 用于DDD，CQRS和事件的.NET核心库，具有Azure Service Bus集成。 Command和Event存储支持的数据库提供程序包括：DocumentDB，MongoDB，SQL Server，MySQL，PostgreSQL和SQLite。
+* [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client) -  RabbitMQ .NET客户端。
 * [RawRabbit](https://github.com/pardahlman/RawRabbit) - 用于通过RabbitMq进行通信的现代.NET框架。
 * [Rebus](https://github.com/rebus-org/Rebus) -  .NET的简单和精简服务总线实现。
 * [Restbus](http://restbus.org) -  RabbitMq的消息传递库。
@@ -622,23 +622,23 @@
 * [Chroniton.NetCore](https://github.com/leosperry/Chroniton) - 用于在日程安排上运行任务(作业)的轻量级健壮库。
 * [Coravel](https://github.com/jamesmh/coravel) -  .Net Core符合Laravel：调度，排队等
 * [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - 具有流畅界面的自动作业调度程序。
-* [Gofer.NET](https://github.com/brthor/Gofer.NET) - 用于.NET Core的分布式后台任务/作业的简易C#API。灵感来自芹菜的蟒蛇。
-* [HangfireIO](https://github.com/HangfireIO/Hangfire) - 在ASP.NET应用程序中执行“即发即忘”，“延迟”和“重复”任务的简便方法[http://hangfire.io](http：/ /hangfire.io)。
-* [LiquidState](https://github.com/prasannavl/LiquidState) - 用于.NET的高效异步和同步状态机。
+* [Gofer.NET](https://github.com/brthor/Gofer.NET) - 用于.NET Core的分布式后台任务/作业的简易C#API。
+* [HangfireIO](https://github.com/HangfireIO/Hangfire) - 在ASP.NET应用程序内执行即发即忘，延迟和重复性工作。
+* [LiquidState](https://github.com/prasannavl/LiquidState) - 高效异步和同步状态机。
 * [NCrontab](https://github.com/atifaziz/NCrontab) - 用于.NET的Crontab。
-* [quartznet](https://github.com/quartznet/quartznet/) -  Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net) 。
+* [quartznet](https://github.com/quartznet/quartznet/) -  Quartz.NET任务计划程序。
 * [stateless](https://github.com/dotnet-state-machine/stateless) - 用于在C#代码中创建状态机的简单库。
 
 ### 开发工具包SDKs
 * [AWS SDK](https://github.com/aws/aws-sdk-net) -  Amazon Web Services(AWS).NET Core SDK组件。每个AWS服务都有自己的NuGet包。
 * [azure-event-hubs-dotnet](https://github.com/azure/azure-event-hubs-dotnet) -  Azure事件中心的.NET标准客户端库。
 * Blockchain clients
-  * [Bittrex.Net](https://github.com/JKorf/Bittrex.Net) - C# .Net wrapper for the Bittrex web API including all features easily accessible and usable.
-  * [Binance.Net](https://github.com/JKorf/Binance.Net) - .Net API wrapper for the Binance web API.
+  * [Bittrex.Net](https://github.com/JKorf/Bittrex.Net) - Bittrex web API的库 。
+  * [Binance.Net](https://github.com/JKorf/Binance.Net) - Binance Web的API库。
 * [CakeMail.RestClient](https://github.com/Jericho/CakeMail.RestClient) -  CakeMail API的客户端。允许您发送交易电子邮件，批量电子邮件，管理列表和联系人等。
 * [consuldotnet](https://github.com/PlayFab/consuldotnet/tree/develop) - 面向领事的.NET API。
 * [csharp-nats](https://github.com/nats-io/csharp-nats) - 用于NATS消息传递系统的C#.NET客户端。
-* [DarkSkyCore](https://github.com/amweiss/dark-sky-core) -  [Dark Sky API]的.NET标准包装器(https://darksky.net/dev/docs)。
+* [DarkSkyCore](https://github.com/amweiss/dark-sky-core) -  .NET标准库，用于使用Dark Sky API
 * [Docker.DotNet](https://github.com/Microsoft/Docker.DotNet) - 用于Docker API的.NET(C#)客户端库。
 * [firebase-admin-dotnet](https://github.com/firebase/firebase-admin-dotnet) -  Firebase Admin .NET SDK
 * [google-cloud-dotnet](https://github.com/GoogleCloudPlatform/google-cloud-dotnet) - 适用于.NET的Google Cloud Client Libraries。
@@ -647,7 +647,7 @@
 * [octokit.net](https://github.com/octokit/octokit.net) - 用于.NET的GitHub API客户端库。
 * [PreStorm](https://github.com/jshirota/PreStorm) -  ArcGIS Server的并行REST客户端。
 * [SendGrid-csharp](https://github.com/sendgrid/sendgrid-csharp) - 用于使用完整SendGrid API的C#客户端库。
-* [statsd-csharp-client](https://github.com/Pereingo/statsd-csharp-client) - 与.NET标准兼容的C#客户端与Etsy的优秀[statsd](https://github.com/etsy)接口/ statsd)服务器。
+* [statsd-csharp-client](https://github.com/Pereingo/statsd-csharp-client) - 与.NET标准兼容的C#客户端与Etsy的优秀服务器。
 * [tweetinvi](https://github.com/linvi/tweetinvi) - 直观的.NET C#库，用于访问Twitter REST和STREAM API。
 
 ### 安全
@@ -656,33 +656,33 @@
 * [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - 用于处理JOSE对象的库(JWT，JWA，JWS及相关)。
 * [Jwt.Net](https://github.com/jwt-dotnet/jwt) -  Jwt.Net，一个用于.NET的JWT(JSON Web令牌)实现。
 * [JWT Simple Server](https://github.com/Xabaril/JWTSimpleServer) - 用于ASP.NET Core的轻量级动态jwt服务器。
-* [NWebsec](https://github.com/NWebsec/NWebsec) -  ASP.NET的安全库[http://www.nwebsec.com](http://www.nwebsec.com)。
+* [NWebsec](https://github.com/NWebsec/NWebsec) -  ASP.NET的安全库。
 * [reCAPTCHA](https://github.com/PaulMiami/reCAPTCHA) - 用于ASP.NET Core的reCAPTCHA 2.0。
 * [roslyn-security-guard](https://github.com/dotnet-security-guard/roslyn-security-guard) - 旨在帮助.NET应用程序进行安全审计的Roslyn分析器。
 * [OwaspHeaders](https://github.com/GaProgMan/OwaspHeaders.Core) -  .NET Core中间件，用于注入Owasp推荐的HTTP标头，以提高安全性。
-* [Security](https://github.com/aspnet/Security) - Middleware for security and authorization of web apps.
+* [Security](https://github.com/aspnet/Security) - 于Web应用程序的安全性和授权的中间件。
 * [SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) - 允许向ASP.NET Core网站添加安全标头的小包。
 
 ### 搜索
 * [Algolia.Search](https://github.com/algolia/algoliasearch-client-csharp) - 官方Algolia .NET客户端的存储库。
-* [AutoComplete](https://github.com/omerfarukz/autocomplete) - Persistent, simple, powerful and portable autocomplete library.
-* [Elasticsearch.Net & NEST](https://github.com/elastic/elasticsearch-net) - Repository for both NEST and Elasticsearch.NET, the two official elasticsearch .NET clients.
+* [AutoComplete](https://github.com/omerfarukz/autocomplete) - 持久，简单，强大且可移植的自动完成库。
+* [Elasticsearch.Net & NEST](https://github.com/elastic/elasticsearch-net) - NEST和Elasticsearch.Net的存储库，这是两个官方Elasticsearch .NET客户端。
 * [ElasticsearchCRUD](https://github.com/damienbod/ElasticsearchCRUD) -  Elasticsearch .NET API。
 * [SearchExtensions](https://github.com/ninjanye/SearchExtensions) -  IQueryable接口的高级搜索功能，例如Entity Framework查询。
 * [SimMetrics.Net](https://github.com/StefH/SimMetrics.Net) - 相似度量标准库，例如从编辑距离(Levenshtein，Gotoh，Jaro等)到其他指标，(例如Soundex，Chapman)
 * [SolrExpress](https://github.com/solr-express/solr-express) - 用于Solr的简单轻量级查询.NET库，采用可控，可构建和快速失败的方式。
 
 ### 序列化
-* [BinarySerializer](https://github.com/jefffhaynes/BinarySerializer) - Serialization for custom packet and protocol formats, supports bit-twiddling.
+* [BinarySerializer](https://github.com/jefffhaynes/BinarySerializer) - 二进制序列化库，用于控制字节和位级别的数据格式。
 * [bond](https://github.com/Microsoft/bond) - 用于处理模式化数据的跨平台框架。它支持跨语言的序列化和强大的通用机制，可以有效地处理数据。 Bond广泛用于Microsoft的高规模服务。
-* [Channels](https://github.com/davidfowl/Channels) - Push based .NET Streams.
+* [Channels](https://github.com/davidfowl/Channels) - 基于推送的.NET流。
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - 帮助读写CSV文件的库。
 * [Edi.Net](https://github.com/indice-co/EDI.Net) -  EDI Serializer / Deserializer。支持EDIFact，X12和TRADACOMS格式。
 * [ExtendedXmlSerializer](https://github.com/wojtpl2/ExtendedXmlSerializer) - 用于.NET的扩展Xml序列化程序。
 * [Jil](https://github.com/kevin-montrose/Jil) - 基于Sigil构建的快速.NET JSON(De)串行器。
 * MessagePack 
-  * [msgpack-cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
-  * [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
+  * [msgpack-cli](https://github.com/msgpack/msgpack-cli) - 公共语言基础结构的MessagePack实现。
+  * [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - MessagePack序列化程序库。
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - 适用于.NET的流行高性能JSON框架。
 * [protobuf-net](https://github.com/mgravell/protobuf-net/) - 用于惯用.NET的协议缓冲库。
 * [Schema.NET](https://github.com/RehanSaeed/Schema.NET) -  Schema.org对象变成了强类型的C#POCO类，用于.NET。所有类都可以序列化为JSON / JSON-LD和XML，通常用于表示html页面头部的结构化数据。
