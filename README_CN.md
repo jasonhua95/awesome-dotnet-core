@@ -12,8 +12,6 @@
 查看我的[博客](https://medium.com/@thangchung) 或者在[Twitter](https://twitter.com/thangchung)打声招呼!
 
 ## 内容
-<details>
-<summary>内容折叠</summary>
 * [一般](#一般)
 * [框架, 库和工具](#框架-库和工具)
   * [API](#api)
@@ -75,7 +73,6 @@
 * [视频学习](#视频学习)
 * [视频播客](#视频播客)
 * [社区](#社区)
-</details>
 
 ## 一般
 
