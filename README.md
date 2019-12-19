@@ -1,5 +1,5 @@
 # 说明
-此项目是[awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)中文版，内容由google翻译并且个人进行修改，如有错误，欢迎指正。
+此项目是[awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)中文版，内容由google翻译并且个人进行修改，如有错误，欢迎指正。最后一次同步时间：2019-12-19（每月同步一次） 
   
 [国内](README_CN.md)  | [中文](README.md)  | [English](README_EN.md) 
     
