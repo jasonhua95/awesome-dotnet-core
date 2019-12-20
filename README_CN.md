@@ -8,6 +8,18 @@
 * [ORM](#ORM)
 * [IOC](#IOC)
 * [日志](#日志)
+* [分布式](#分布式)
+* [测试](#测试)
+* [性能](#性能)
+* [消息队列](#消息队列)
+* [数据库](#数据库)
+* [服务器](#服务器)
+* [缓存](#缓存)
+* [框架](#框架)
+* [项目](#项目)
+* [序列化](序列化)
+* [定时任务](定时任务)
+* [Actor模型](#Actor模型)
 * [博客](#博客)
 
 ### 微软
@@ -33,6 +45,7 @@
 * [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco)
 * [LINQKit](https://github.com/scottksmith95/LINQKit)
 * [FreeSql](https://github.com/2881099/FreeSql)
+* [AutoMapper](https://github.com/AutoMapper/AutoMapper)
 
 ### IOC
 > 比较流行的控制反转（IOC），最常见的依赖注入（DI）
@@ -49,8 +62,69 @@
 * [log4net](https://github.com/apache/logging-log4net/)
 * 
 
+### 分布式
+* Orleans
+  * [Microsoft.Orleans.OrleansProviders](https://github.com/dotnet/Orleans)
+
+### 测试
+* [XUnit](https://github.com/xunit/xunit)
+
+### 性能
+* [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
+
+### 消息队列
+* RabbitMQ
+  * [RabbitMQ.Client](https://github.com/rabbitmq/rabbitmq-dotnet-client)
+  * [MassTransit.RabbitMQ](https://github.com/MassTransit/MassTransit)
+
+### 数据库
+* Redis
+  * [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis/)
+  * [Microsoft.Extensions.Caching.Redis](https://github.com/aspnet/Extensions)
+  * [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis)
+  * [Microsoft.AspNetCore.SignalR.Redis](https://github.com/aspnet/AspNetCore)
+* EF
+  * [Pomelo.EntityFrameworkCore.MySql](https://github.com/aspnet/EntityFrameworkCore)
+  * [Microsoft.EntityFrameworkCore.SqlServer](https://github.com/aspnet/EntityFrameworkCore)
+  * [Microsoft.EntityFrameworkCore.Sqlite](https://github.com/aspnet/EntityFrameworkCore)
+  * [Microsoft.EntityFrameworkCore.InMemory](https://github.com/aspnet/EntityFrameworkCore)
+  * [Npgsql.EntityFrameworkCore.PostgreSQL](https://github.com/npgsql/efcore.pg)
+* [Npgsql](https://github.com/npgsql/npgsql)
+
+### 服务器
+* [Nginx](https://www.nginx.com/)
+* Kestrel
+  * [Microsoft.AspNetCore.Server.Kestrel](https://github.com/aspnet/KestrelHttpServer)
+
+### 缓存
+* [CacheManager](http://cachemanager.michaco.net/)
+  * [CacheManager.Core](https://github.com/MichaCo/CacheManager)
+* [EasyCaching](https://easycaching.readthedocs.io/en/latest/)
+  * [EasyCaching.Core](https://github.com/dotnetcore/EasyCaching)
+* [Memcached](https://memcached.org/)
+  * [EnyimMemcached](https://github.com/enyim/EnyimMemcached)
+  * [CacheManager.Core](https://github.com/MichaCo/CacheManager)
+
+### 框架
+* [Nancy](https://github.com/NancyFx/Nancy)
+
+### 项目
+* CMS
+  * [OrchardCore](https://github.com/OrchardCMS/OrchardCore)
+
+
+### 序列化
+* [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
+* [Json.Net](https://github.com/obarlik/Json.Net)
+
+### 定时任务
+* [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler)
+
+### Actor模型
+* [Akka.NET](https://github.com/akkadotnet/akka.net)
+
 ### 博客
-* []()
+* [博客园](https://www.cnblogs.com/)
 
 
 
