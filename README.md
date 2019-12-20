@@ -784,7 +784,7 @@
 
 ### Windows服务
 * [dotnet-win32-service](https://github.com/dasMulli/dotnet-win32-service) - 直接从.NET Core设置并运行Windows服务。
-* [Topshelf](https://github.com/Topshelf/Topshelf) - 使用.NET构建Windows服务的简易服务托管框架。
+* [Topshelf](https://github.com/Topshelf/Topshelf) - Windows服务框架。
 
 ### 工作流
 * [CoreWF](https://github.com/dmetzgar/corewf/) -  Windows Workflow Foundation(WF)到.NET Core的端口。
