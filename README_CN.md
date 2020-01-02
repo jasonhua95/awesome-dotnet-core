@@ -30,7 +30,8 @@
 
 ### 微软
 * [ASP.NET Core官方文档](https://docs.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-3.1)
-* [.NET文档目录](https://docs.microsoft.com/zh-cn/dotnet/welcome)
+* [.NET指南](https://docs.microsoft.com/zh-cn/dotnet/welcome)
+* [C#指南](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 * [.NET Standard 指南](https://docs.microsoft.com/zh-cn/dotnet/standard/)
 * [.NET Core 指南](https://docs.microsoft.com/zh-cn/dotnet/core/)
 * [.NET Core源码](https://github.com/aspnet/AspNetCore)
