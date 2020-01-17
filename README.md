@@ -410,6 +410,7 @@
 * [SharpBgfx](https://github.com/MikePopoloski/SharpBgfx) -  bgfx图形库的C#绑定。
 * [Structure.Sketching](https://github.com/JaCraig/Structure.Sketching) - 用于支持.NET Core的.NET应用程序的图像处理库。
 * [veldrid](https://github.com/mellinoe/veldrid) - 一个用于.NET的低级硬件加速3D图形库。
+* [ZXing.Net](https://github.com/micjahn/ZXing.Net/) 二维码、条形码的生成和读取
 
 ### 图形用户界面GUI
 * [Avalonia](https://github.com/AvaloniaUI/Avalonia) - 跨平台UI框架。
