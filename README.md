@@ -80,6 +80,7 @@
 * [视频学习](#视频学习)
 * [视频播客](#视频播客)
 * [社区](#社区)
+* [组织](#组织)
 
 ## 一般
 
@@ -941,6 +942,14 @@
   *  [ASP.NET Core 1.0](https://stackoverflow.com/questions/tagged/asp.net-core-1.0)
   *  [Entity Framework Core](https://stackoverflow.com/questions/tagged/entity-framework-core)
 * [Trending .NET repositories on GitHub today](https://github.com/trending?l=csharp)
+
+## 组织
+* [ASP.NET](https://github.com/aspnet) - ASP.NET and Entity Framework
+* [.NET Platform](https://github.com/dotnet) - 开源.NET源码
+* [microsoft](https://github.com/microsoft) - 微软
+* [.NET Core Community](https://github.com/dotnetcore) - .NET中文社区组织
+* [.NET 社区联盟](https://dotnet-china.com/) - 中国.NET社区联盟
+
 
 ## License
 
