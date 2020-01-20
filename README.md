@@ -766,6 +766,7 @@
 * [X.Web.Sitemap](https://github.com/dncuug/X.Web.Sitemap) – 简单站点地图生成器。
 * [X.Web.RSS](https://github.com/dncuug/X.Web.RSS) – 简单站点RSS生成器。
 * [SmartCode](https://github.com/Ahoo-Wang/SmartCode) – SmartCode= IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including [Code generator])
+* [Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) - 各种工具类，例如：上传下载，加密解密等
 
 ### Web框架
 * WebAssembly
