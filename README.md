@@ -1,6 +1,6 @@
 # 说明
 此项目是[awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)中文版，根据个人对项目的理解进行说明，有些是google翻译，有空会继续修改，如有错误，欢迎指正。  
-最后一次同步时间：2019-12-19（每月同步一次）  
+最后一次同步时间：2020-03-04（每月同步一次）  
       
 [国内](README_CN.md)  | [中文](README.md)  | [English](README_EN.md) 
     
