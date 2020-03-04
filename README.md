@@ -129,6 +129,7 @@
 * [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger工具，生成API文档，包括用于测试的UI。
   * [MicroElements.Swashbuckle.FluentValidation](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation) - 向Swagger添加FluentValidation规则。
   * [Swashbuckle.AspNetCore.Filters](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - 一堆有用的Swashbuckle.AspNetCore筛选器。
+ * [WebAnchor](https://github.com/mattiasnordqvist/Web-Anchor) - Web Anchor 提供了类型安全，可测试和灵活的，运行时生成的Web资源访问。简单来说提供了Web APi灵活的访问方式。
 * [WebAPIContrib for ASP.NET CORE](https://github.com/WebApiContrib/WebAPIContrib.Core) - ASP.NET Core的附加组件和扩展库。
 
 ### 应用程序框架
@@ -185,8 +186,10 @@
 * [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template) - 带有Angular的ASP.NET MVC 5，ASP.NET Core和ASP.NET Core的现成模板。
 * [AddFeatureFolders](https://github.com/OdeToCode/AddFeatureFolders) - 为ASP.NET Core中的MVC控制器和视图启用功能文件夹。
 * [Angular Visual Studio Webpack Starter](https://github.com/damienbod/AngularWebpackVisualStudio) - 用于Webpack，Visual Studio，ASP.NET Core和Angular的模板。应用程序的客户端和服务器端都在一个ASP.NET Core项目中实现，这使得部署更容易。
+* [CleanArchitecture](https://github.com/JasonGT/CleanArchitecture) - 遵循Clean Architecture的原理使用Angular 8和ASP.NET Core 3创建单页应用程序（SPA）的解决方案模板
 * [DNTFrameworkCoreTemplate](https://github.com/rabbal/DNTFrameworkCoreTemplate) - 基于[DNTFrameworkCore]的Boilerplate项目模板。
 * [dotnet new caju](https://github.com/ivanpaulovich/dotnet-new-caju) - 代码整洁框架，[clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)。
+* [EISK](https://github.com/EISK/eisk.webapi) - 为开发人员资源提供简单的用例，以使用[体系结构最佳实践]在.NET Core之上构建可伸缩的应用程序 (DDD, onion architecture etc)
 * [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) -  Microsoft ASP.NET核心JavaScript服务。
 * [kendo-ui-core](https://github.com/telerik/kendo-ui-core) - 一个基于jQuery的HTML5小部件库，用于构建现代Web应用程序。
 * [QuickApp](https://github.com/emonney/QuickApp) - 具有完整登录，用户和角色管理的ASP.NET Core / Angular4启动项目模板。
@@ -364,6 +367,7 @@
 * [AspNetCore.Diagnostics.HealthChecks](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) - HealthChecks企业级核心诊断程序。
   - [BeatPulse](https://github.com/Xabaril/BeatPulse) - ASP.NET Core应用程序的活动状况，健康检查库。
 * [Foundatio](https://github.com/exceptionless/Foundatio) - 可插拔的，用于构建松耦合的分布式应用程序库。
+* [jasper](https://github.com/JasperFx/jasper) - .NET的下一代应用程序开发框架
 * [Rafty](https://github.com/ThreeMammals/Rafty) - RAFT 的实现库。
 * [Obvs](https://github.com/christopherread/Obvs) - 一个可观察微服务总线的库，基于Rx的接口。
 * [Ocelot](https://github.com/ThreeMammals/Ocelot) - Ocelot创建的API网关。
@@ -815,6 +819,7 @@
 
 ## 例子
 * Microservices & Service Mesh
+ * [A lightweight Contact management (CRM)](https://github.com/tungphuong/crm) - 这是一个由微服务架构（.Net Core 3.0，React，Ract，GraphQL，Identity Server 4，gRPC，CQRS，RabbitMQ，Monitoring，Jaeger，Azure Pipeline，Seq，K8s，Linkerd，Helm 3组成的简化的联系人管理系统。
   * [coolstore-microservices ](https://github.com/vietnam-devs/coolstore-microservices) -  一个基于Kubernetes的多语言微服务应用程序，带有Istio服务网格
   * [distributed-playground](https://github.com/jvandevelde/distributed-playground) - 带有Vagrant，Consul，Docker和ASP.NET Core的分布式服务游乐场。
   * [DNC-DShop](https://github.com/devmentors) - 分布式.NET核心项目和免费课程。 (DDD，CQRS，RabbitMQ，MongoDB，Redis，监控，记录，CI，CD)
@@ -849,12 +854,12 @@
   * [guidance-identity-management-for-multitenant-apps](https://github.com/Azure-Samples/guidance-identity-management-for-multitenant-apps) - Microsoft Azure中多租户应用程序的身份管理例子。
   * [JustA.ML](https://github.com/mustakimali/JustA.ML) -  一个Web应用程序，允许您在使用ASP.NET Core 2.0编写的设备之间共享文件/ URL /文本。
   * [MegaMine](https://github.com/Nootus/MegaMine) - 开源挖掘解决方案，帮助矿工提取黄金，石英，花岗岩等。此解决方案使用ASP.NET Core和AngularJS利用多个轻量级组件构建以微服务的方式。
-  * [minicompiler](https://github.com/ealsur/minicompiler) - 缩小，捆绑和编译样本。
   * [MusicStore](https://github.com/aspnet/MusicStore) - 使用MVC和Entity Framework的示例MusicStore应用程序。
   * [NLayerAppV3](https://github.com/cesarcastrocuba/nlayerappv3) - 带有.NET Core Preview 2的NLayerAppV3 N层架构。
   * [NorthwindTraders](https://github.com/JasonGT/NorthwindTraders) - Northwind Traders是使用ASP.NET Core和Entity Framework Core构建的示例应用程序。
   * [Orchard Core - Modular and Multi-tenant applications](https://github.com/OrchardCMS/OrchardCore.Samples) - 使用Orchard Core Framework创建模块化和多租户应用程序。
   * [PhotoGallery](https://github.com/chsakell/aspnet5-angular2-typescript) - 使用ASP.NET Core，Angular 2和TypeScript的跨平台单页应用程序
+  * [PokeR](https://github.com/halomademeapc/pokeR) - 在ASP.NET Core的SPA托管中使用SignalR和Angular进行实时Scrum。 包括Docker支持。. [Demo](https://planning.halomademeapc.com)
   * [Practical ASP.NET Core](https://github.com/dodyg/practical-aspnetcore) - 每日更新的ASP.NET核心功能和设施的微量示例。
   * [Sample .NET Core CQRS REST API](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) -  使用Clean Architecture的原始SQL和DDD的.NET Core REST API CQRS实现。
   * [StarWars](https://github.com/JacekKosciesza/StarWars) - 使用GraphQL for .NET，ASP.NET Core，Entity Framework Core的GraphQL“星球大战”示例。
