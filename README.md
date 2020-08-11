@@ -1,6 +1,6 @@
 # 说明
 此项目是[awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)中文版，根据个人对项目的理解进行说明，有些是google翻译，有空会继续修改，如有错误，欢迎指正。  
-最后一次同步时间：2020-04-24（每月同步一次）  
+最后一次同步时间：2020-08-11（每月同步一次）  
       
 [国内](README_CN.md)  | [中文](README.md)  | [English](README_EN.md) 
     
@@ -188,7 +188,8 @@
 * [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template) - 带有Angular的ASP.NET MVC 5，ASP.NET Core和ASP.NET Core的现成模板。
 * [AddFeatureFolders](https://github.com/OdeToCode/AddFeatureFolders) - 为ASP.NET Core中的MVC控制器和视图启用功能文件夹。
 * [Angular Visual Studio Webpack Starter](https://github.com/damienbod/AngularWebpackVisualStudio) - 用于Webpack，Visual Studio，ASP.NET Core和Angular的模板。应用程序的客户端和服务器端都在一个ASP.NET Core项目中实现，这使得部署更容易。
-* [CleanArchitecture](https://github.com/JasonGT/CleanArchitecture) - 遵循Clean Architecture的原理使用Angular 8和ASP.NET Core 3创建单页应用程序（SPA）的解决方案模板
+* [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - 一个高度适配的ASP.NET Core框架。
+* [CleanArchitecture (SPA)](https://github.com/JasonGT/CleanArchitecture) - 遵循Clean Architecture的原理使用Angular 8和ASP.NET Core 3创建单页应用程序（SPA）的解决方案模板
 * [DNTFrameworkCoreTemplate](https://github.com/rabbal/DNTFrameworkCoreTemplate) - 基于[DNTFrameworkCore]的Boilerplate项目模板。
 * [dotnet new caju](https://github.com/ivanpaulovich/dotnet-new-caju) - 代码整洁框架，[clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)。
 * [EISK](https://github.com/EISK/eisk.webapi) - 为开发人员资源提供简单的用例，以使用[体系结构最佳实践]在.NET Core之上构建可伸缩的应用程序 (DDD, onion architecture etc)
@@ -429,6 +430,7 @@
 * [Avalonia](https://github.com/AvaloniaUI/Avalonia) - 跨平台UI框架。
 * [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit/) - 基于Avalonia的文本编辑器组件。
 * [HandyControls](https://github.com/ghost1372/HandyControls) - 包含一些简单且常用的WPF控件。
+* [Lara](https://github.com/integrativesoft/lara) - Lara Web Engine是用于使用C＃开发Web用户界面的库
 * [ShellProgressBar](https://github.com/Mpdreamz/shellprogressbar) - 可视化（并行）控制台应用程序库。
 * [Qml.Net](https://github.com/pauldotknopf/Qml.Net) - 使用Qml.Net在.NET中构建跨平台的桌面应用程序。
 * [WinApi](https://github.com/prasannavl/WinApi) - 一个简单，直接，超薄的CLR库，用于高性能Win32 Native Interop，具有自动化，窗口，DirectX，OpenGL和Skia助手。
@@ -569,6 +571,7 @@
 * [UnitsNet](https://github.com/angularsen/UnitsNet) -  Units.NET为您提供所有常用的度量单位和它们之间的转换。
 * Validation
   * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - 流行的.NET验证库，用于构建强类型的验证规则。
+  * [FormHelper](https://github.com/SinanBozkus/FormHelper) - ASP.NET Core的表单和验证帮助器。表单助手可帮助您创建Ajax表单和验证，而无需编写任何JavaScript代码。
   * [Guard](https://github.com/safakgur/guard) - 高性能，可扩展的参数验证库。
   * [Valit](https://github.com/valit-stack/Valit) - Valit是对.NET Core的简单验证库，减少if的使用。
 * [Vanara](https://github.com/dahall/Vanara) - 一组用于Windows的.NET库，通过支持的包装程序实现了对许多本机Windows API的PInvoke调用。
@@ -584,7 +587,7 @@
 * [Networker](https://github.com/MarkioE/Networker) - 一个简单易用的.NET TCP和UDP网络库，旨在实现灵活，可扩展和快速。
 
 ### 办公软件
-* [EPPlus](https://github.com/JanKallman/EPPlus) - 使用.NET创建高级Excel电子表格。
+* [EPPlus](https://github.com/EPPlusSoftware/EPPlus) - 使用.NET创建高级Excel电子表格。
 * [npoi](https://github.com/tonyqus/npoi) - 可以读取/写入未安装Microsoft Office的Office格式的.NET库。没有COM +，没有互操作。
 * [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) -  Open XML SDK提供了使用Office Word，Excel和PowerPoint文档的工具。
 
