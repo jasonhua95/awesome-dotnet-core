@@ -282,6 +282,7 @@
 * [Weapsy](https://github.com/Weapsy/Weapsy) - 基于DDD和CQRS的开源ASP.NET核心CMS。它支持开箱即用的MSSQL，MySQL，SQLite和PostgreSQL。
 * [Wyam](https://github.com/Wyamio/Wyam) - 模块化静态内容和静态站点生成器。
 * [ZKEACMS](https://github.com/SeriaWei/ZKEACMS.Core) - 视觉设计，通过拖放构建网站。
+* [Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) - masuit.com个人博客源码+数据库
 
 ### 代码分析和指标
 * [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - 针对各种编程语言的静态分析工具，链接和代码质量检查器的精选列表。
@@ -801,6 +802,8 @@
 * [X.Web.RSS](https://github.com/dncuug/X.Web.RSS) – 简单站点RSS生成器。
 * [SmartCode](https://github.com/Ahoo-Wang/SmartCode) – SmartCode= IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including [Code generator])
 * [Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) - 各种工具类，例如：上传下载，加密解密等
+* [Masuit.Tools](https://github.com/ldqk/Masuit.Tools) - 含一些常用的操作类，加密解密，反射操作，动态编译，权重随机筛选算法，简繁转换，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，实体映射、集合扩展等常用封装。
+* [Masuit.LuceneEFCore.SearchEngine](https://github.com/ldqk/Masuit.LuceneEFCore.SearchEngine) - 基于EntityFrameworkCore和Lucene.NET实现的全文检索搜索引擎，可轻松实现高性能的全文检索。可以轻松应用于任何基于EntityFrameworkCore的实体框架数据库。
 
 ### Web框架
 * WebAssembly
