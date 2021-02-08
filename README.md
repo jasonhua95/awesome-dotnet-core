@@ -1,6 +1,6 @@
 # 说明
 此项目是[awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)中文版，根据个人对项目的理解进行说明，有些是google翻译，有空会继续修改，如有错误，欢迎指正。  
-最后一次同步时间：2020-08-11（每月同步一次）  
+最后一次同步时间：2021-02-08（每月同步一次）  
       
 [国内](README_CN.md)  | [中文](README.md)  | [English](README_EN.md) 
     
@@ -848,7 +848,6 @@
 
 ## 例子
 * Microservices & Service Mesh
- * [A lightweight Contact management (CRM)](https://github.com/tungphuong/crm) - 这是一个由微服务架构（.Net Core 3.0，React，Ract，GraphQL，Identity Server 4，gRPC，CQRS，RabbitMQ，Monitoring，Jaeger，Azure Pipeline，Seq，K8s，Linkerd，Helm 3组成的简化的联系人管理系统。
   * [coolstore-microservices ](https://github.com/vietnam-devs/coolstore-microservices) -  一个基于Kubernetes的多语言微服务应用程序，带有Istio服务网格
   * [distributed-playground](https://github.com/jvandevelde/distributed-playground) - 带有Vagrant，Consul，Docker和ASP.NET Core的分布式服务游乐场。
   * [DNC-DShop](https://github.com/devmentors) - 分布式.NET核心项目和免费课程。 (DDD，CQRS，RabbitMQ，MongoDB，Redis，监控，记录，CI，CD)
